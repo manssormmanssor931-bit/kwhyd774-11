@@ -4,7 +4,7 @@
 $Tok = ' '; #توكن البوت
 define('API_KEY',$Tok);8553193148:AAEuIuo6aVKE92Pcc3gVzXlM33F-oQ_UcU4'
 function bot($method,$datas=[]){
-$function = http_build_query($datas);
+$function = https://kwhyd774-11-1.onrender.com;
 $url = "https://api.telegram.org/bot".API_KEY."/".$method."?$function";
 $function1 = file_get_contents($url);
 return json_decode($function1);

@@ -3,7 +3,7 @@
 // ================= CONFIG =================
 $botToken = "8553193148:AAEuIuo6aVKE92Pcc3gVzXlM33F-oQ_UcU4";
 $admin_id =" 7965320174"
-$apiURL = "https://api.telegram.org/bot$botToken/";
+$apiURL = "https://kwhyd774-11-1.onrender.com";
 
 $MAX_DAILY = 10; // الحد اليومي لكل مستخدم
 
